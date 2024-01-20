@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @Tanvi Rajput.
+ # Hi, I’m Tanvi Rajput!
+ 
   
-- 👀 I’m interested in Da
+- 👀 I’m interested in Analyzing data, developing informative interactive dashboards, and constructing models.
 - 🌱 I’m currently working as a Data Analyst at Fortray Global Services LTD in London.
 - 💞️ I’m looking to collaborate on Data Analytics/ Data Science Project.
-- 📫 My LinkedIN Profile : https://www.linkedin.com/in/tanviben-rajput-8a6686224/  
+- 📫 My LinkedIN Profile : https://www.linkedin.com/in/tanviben-rajput-8a6686224/
+  
+  # Skills
+  
+  **Programming Languages:** Python, R, Java
+
+  **Data Manipulation and Analysis:** NumPy, Pandas, Matplotlib, Seaborn
+
+  **Statistical Analysis:** Descriptive statistics, Regression analysis, and Hypothesis testing
+  
+  **Tools & Technology:** Jupiter NoteBook, PyCharm, Tableau, MS Office, PowerBI.
+
+  **Database Management:** SQL, MSSQL, MySQL, MongoDB.
+  
   
 
 <!---
