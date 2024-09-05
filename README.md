@@ -2,7 +2,6 @@
  
   
 - 👀 I’m interested in Analyzing data, developing informative interactive dashboards, and constructing models.
-- 🌱 I’m currently working as a Data Analyst at Fortray Global Services LTD in London.
 - 💞️ I’m looking to collaborate on Data Analytics/ Data Science Project.
 - 📫 My LinkedIn Profile : https://www.linkedin.com/in/tanviben-rajput/
   
